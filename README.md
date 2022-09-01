@@ -12,11 +12,12 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ## Results
 ## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-The data shows that 
+The data shows that with 90,398 employees reaching retirement age, around 42,929 employees will be needed to fill in the gaps in the current or near future.
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  - There are 1940 employees who are retirement_ready employees who are available to mentor the next generation of pewlett hackard employees
-### fill in additional queries here with more insight
+  - There are currently 1,940 retirement-ready employees who are qualified to mentor the up and coming Pewlett Hackard employees. 
+### Additional Insight
+- 64% of employees holding senior titles are reaching retirement age. Therefore, the mentorship program will be a helpful way to transition new employees into Pewlett Hackard. Current data shows that 1940 employees who are retirement_ready employees are available to mentor the next generation of pewlett hackard employees. In sum, there is not a 1 to 1 ratio for the mentorship program, however there is a large enough buffer that it will be helpful.
 
-
-### fill in additional queries here with more insight
+### Additional Insight
 ![Screen Shot 2022-08-31 at 8 31 47 PM](https://user-images.githubusercontent.com/106174279/187819725-9147ccd3-f89a-4b4b-98cf-19ea702a2fe8.png)
+Another potential actionable insight is to mentor more than one new employee per eligile mentorship trainer. This could reduce the stress of not enough trainers and help teach the new employees team work and company culture.
